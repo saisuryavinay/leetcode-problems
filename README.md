@@ -105,5 +105,6 @@
 | ------- |
 | [0197-rising-temperature](https://github.com/saisuryavinay/leetcode-problems/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/saisuryavinay/leetcode-problems/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/saisuryavinay/leetcode-problems/tree/master/0610-triangle-judgement) |
 | [1877-find-followers-count](https://github.com/saisuryavinay/leetcode-problems/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
