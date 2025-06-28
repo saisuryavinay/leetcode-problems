@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/saisuryavinay/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/saisuryavinay/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0507-perfect-number) |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/saisuryavinay/leetcode-problems/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
