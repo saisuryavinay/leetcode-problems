@@ -14,6 +14,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3371-harshad-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/3371-harshad-number) |
 ## Hash Table
 |  |
 | ------- |
