@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
 | [1293-three-consecutive-odds](https://github.com/saisuryavinay/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -61,6 +62,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/saisuryavinay/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
