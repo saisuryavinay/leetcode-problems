@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
 ## String
