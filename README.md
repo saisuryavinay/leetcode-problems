@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/saisuryavinay/leetcode-problems/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
