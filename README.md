@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/saisuryavinay/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/saisuryavinay/leetcode-problems/tree/master/0326-power-of-three) |
@@ -75,6 +76,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/saisuryavinay/leetcode-problems/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/saisuryavinay/leetcode-problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Memoization
