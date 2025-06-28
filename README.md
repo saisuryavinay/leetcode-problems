@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/saisuryavinay/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
