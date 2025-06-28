@@ -112,5 +112,6 @@
 | [0595-big-countries](https://github.com/saisuryavinay/leetcode-problems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/saisuryavinay/leetcode-problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/saisuryavinay/leetcode-problems/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0620-not-boring-movies) |
 | [1877-find-followers-count](https://github.com/saisuryavinay/leetcode-problems/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
