@@ -103,6 +103,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/saisuryavinay/leetcode-problems/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/saisuryavinay/leetcode-problems/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/saisuryavinay/leetcode-problems/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/saisuryavinay/leetcode-problems/tree/master/0595-big-countries) |
