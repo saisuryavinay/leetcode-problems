@@ -16,6 +16,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/saisuryavinay/leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saisuryavinay/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/saisuryavinay/leetcode-problems/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saisuryavinay/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Queue
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saisuryavinay/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
