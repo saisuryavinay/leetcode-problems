@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
@@ -16,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/saisuryavinay/leetcode-problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/saisuryavinay/leetcode-problems/tree/master/0367-valid-perfect-square) |
