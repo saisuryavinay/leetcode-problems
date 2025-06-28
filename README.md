@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,5 +28,14 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/saisuryavinay/leetcode-problems/tree/master/0742-to-lower-case) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
