@@ -21,6 +21,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/saisuryavinay/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/saisuryavinay/leetcode-problems/tree/master/0742-to-lower-case) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/saisuryavinay/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
 | ------- |
