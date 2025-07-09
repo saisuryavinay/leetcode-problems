@@ -63,6 +63,7 @@
 | [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/saisuryavinay/leetcode-problems/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saisuryavinay/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3811-reverse-degree-of-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
+| [3811-reverse-degree-of-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
