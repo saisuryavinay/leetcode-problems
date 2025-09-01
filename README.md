@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
@@ -114,10 +115,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/saisuryavinay/leetcode-problems/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
 ## Database
 |  |
