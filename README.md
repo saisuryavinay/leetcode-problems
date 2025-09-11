@@ -17,6 +17,7 @@
 | [1293-three-consecutive-odds](https://github.com/saisuryavinay/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/saisuryavinay/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/saisuryavinay/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
