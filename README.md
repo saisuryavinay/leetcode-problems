@@ -16,6 +16,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/saisuryavinay/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1293-three-consecutive-odds](https://github.com/saisuryavinay/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/saisuryavinay/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/saisuryavinay/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
