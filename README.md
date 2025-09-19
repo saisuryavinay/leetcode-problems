@@ -35,6 +35,7 @@
 | [0007-reverse-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/saisuryavinay/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/saisuryavinay/leetcode-problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/saisuryavinay/leetcode-problems/tree/master/0367-valid-perfect-square) |
@@ -102,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -112,6 +114,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
