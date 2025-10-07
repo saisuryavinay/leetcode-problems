@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saisuryavinay/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/saisuryavinay/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
@@ -181,4 +183,12 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/saisuryavinay/leetcode-problems/tree/master/1791-richest-customer-wealth) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
