@@ -78,6 +78,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/saisuryavinay/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saisuryavinay/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saisuryavinay/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/saisuryavinay/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/saisuryavinay/leetcode-problems/tree/master/0389-find-the-difference) |
