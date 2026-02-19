@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saisuryavinay/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/saisuryavinay/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
@@ -49,6 +50,7 @@
 | [0070-climbing-stairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/saisuryavinay/leetcode-problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/saisuryavinay/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/saisuryavinay/leetcode-problems/tree/master/0371-sum-of-two-integers) |
@@ -193,6 +195,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
@@ -215,4 +218,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0164-maximum-gap) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
