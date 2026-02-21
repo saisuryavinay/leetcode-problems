@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/saisuryavinay/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
@@ -83,6 +84,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saisuryavinay/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/saisuryavinay/leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -211,6 +213,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saisuryavinay/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/saisuryavinay/leetcode-problems/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
 ## Matrix
