@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/saisuryavinay/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/saisuryavinay/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saisuryavinay/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/saisuryavinay/leetcode-problems/tree/master/0367-valid-perfect-square) |
