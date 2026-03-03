@@ -122,6 +122,7 @@
 | [0742-to-lower-case](https://github.com/saisuryavinay/leetcode-problems/tree/master/0742-to-lower-case) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1542-consecutive-characters](https://github.com/saisuryavinay/leetcode-problems/tree/master/1542-consecutive-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/saisuryavinay/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saisuryavinay/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -179,6 +180,7 @@
 | [0050-powx-n](https://github.com/saisuryavinay/leetcode-problems/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/saisuryavinay/leetcode-problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saisuryavinay/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saisuryavinay/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3811-reverse-degree-of-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
