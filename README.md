@@ -34,6 +34,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saisuryavinay/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/saisuryavinay/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/saisuryavinay/leetcode-problems/tree/master/1791-richest-customer-wealth) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/saisuryavinay/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/saisuryavinay/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 ## Bucket Sort
 |  |
