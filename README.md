@@ -130,6 +130,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/saisuryavinay/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/saisuryavinay/leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saisuryavinay/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saisuryavinay/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3811-reverse-degree-of-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
@@ -179,6 +180,7 @@
 | [0152-maximum-product-subarray](https://github.com/saisuryavinay/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0397-integer-replacement](https://github.com/saisuryavinay/leetcode-problems/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Recursion
 |  |
 | ------- |
@@ -276,4 +278,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
