@@ -39,6 +39,7 @@
 | [1646-kth-missing-positive-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/saisuryavinay/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1980-find-unique-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saisuryavinay/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saisuryavinay/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -89,6 +90,7 @@
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saisuryavinay/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saisuryavinay/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -132,6 +134,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/saisuryavinay/leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saisuryavinay/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saisuryavinay/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3811-reverse-degree-of-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saisuryavinay/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -282,4 +285,8 @@
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
