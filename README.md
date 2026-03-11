@@ -46,6 +46,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saisuryavinay/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/2974-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/saisuryavinay/leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -164,6 +165,7 @@
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2974-minimum-number-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/2974-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
@@ -212,6 +214,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saisuryavinay/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saisuryavinay/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2974-minimum-number-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/2974-minimum-number-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
@@ -296,4 +299,8 @@
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
