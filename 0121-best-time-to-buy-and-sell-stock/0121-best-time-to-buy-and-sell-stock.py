@@ -3,7 +3,6 @@ class Solution:
         mini = prices[0]
         profit = 0
         for i in range(len(prices)):
-            cost = prices[i] - mini
-            profit = max(profit,cost)
-            mini = min(mini,prices[i])
+            mini  = min(mini,prices[i])
+            profit = max(profit,prices[i] - mini)
         return profit
