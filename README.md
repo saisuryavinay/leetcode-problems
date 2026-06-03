@@ -10,6 +10,7 @@
 | [0011-container-with-most-water](https://github.com/saisuryavinay/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/saisuryavinay/leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saisuryavinay/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/saisuryavinay/leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saisuryavinay/leetcode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0070-climbing-stairs) |
@@ -274,6 +276,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saisuryavinay/leetcode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/saisuryavinay/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/saisuryavinay/leetcode-problems/tree/master/1791-richest-customer-wealth) |
