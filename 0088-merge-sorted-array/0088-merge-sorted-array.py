@@ -1,0 +1,19 @@
+class Solution:
+    def merge(self, nums1, m, nums2, n):
+        left = m - 1
+        right = 0
+
+        while left >= 0 and right<n:
+            if nums1[left] > nums2[right]:
+                nums1[left],nums2[right] = nums2[right],nums1[left]
+                left -=1
+                right +=1
+            else:
+                break
+        nums2.sort()
+        nums1[:m] = sorted(nums1[:m])
+
+        # print(nums1)
+        # print(nums2)
+        for i in range(m,m+n):
+            nums1[i] = nums2[i-m]
