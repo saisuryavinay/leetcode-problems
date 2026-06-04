@@ -29,6 +29,7 @@
 | [0204-count-primes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/saisuryavinay/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -96,6 +97,7 @@
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/saisuryavinay/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/saisuryavinay/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -173,6 +176,7 @@
 | [0164-maximum-gap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saisuryavinay/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/saisuryavinay/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
@@ -249,6 +253,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/saisuryavinay/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
@@ -290,6 +295,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -322,5 +328,10 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [2974-minimum-number-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/2974-minimum-number-game) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
