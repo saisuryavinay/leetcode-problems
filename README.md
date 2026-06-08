@@ -96,6 +96,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saisuryavinay/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/saisuryavinay/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
@@ -136,6 +137,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saisuryavinay/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/saisuryavinay/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/saisuryavinay/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/saisuryavinay/leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -328,6 +330,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saisuryavinay/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
