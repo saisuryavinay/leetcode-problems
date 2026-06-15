@@ -144,6 +144,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/saisuryavinay/leetcode-problems/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saisuryavinay/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -391,6 +392,7 @@
 | [0234-palindrome-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
