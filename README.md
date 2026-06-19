@@ -52,6 +52,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/saisuryavinay/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/saisuryavinay/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/saisuryavinay/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/saisuryavinay/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/saisuryavinay/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
