@@ -14,6 +14,7 @@
 | [0041-first-missing-positive](https://github.com/saisuryavinay/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/saisuryavinay/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saisuryavinay/leetcode-problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/saisuryavinay/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/saisuryavinay/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saisuryavinay/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/saisuryavinay/leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/saisuryavinay/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/saisuryavinay/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saisuryavinay/leetcode-problems/tree/master/0141-linked-list-cycle) |
@@ -168,6 +170,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saisuryavinay/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/saisuryavinay/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/saisuryavinay/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/saisuryavinay/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/saisuryavinay/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0205-isomorphic-strings) |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/saisuryavinay/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/saisuryavinay/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0164-maximum-gap) |
