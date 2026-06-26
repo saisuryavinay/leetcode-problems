@@ -76,6 +76,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/saisuryavinay/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saisuryavinay/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -322,6 +324,7 @@
 | [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Database
 |  |
 | ------- |
@@ -347,6 +350,7 @@
 | [1732-find-the-highest-altitude](https://github.com/saisuryavinay/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/saisuryavinay/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -421,11 +425,13 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
