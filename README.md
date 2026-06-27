@@ -319,6 +319,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/saisuryavinay/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/saisuryavinay/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -410,6 +411,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saisuryavinay/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [2974-minimum-number-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/2974-minimum-number-game) |
 ## Quickselect
@@ -429,6 +431,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saisuryavinay/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -440,6 +443,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/saisuryavinay/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/saisuryavinay/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0206-reverse-linked-list) |
