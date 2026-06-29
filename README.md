@@ -58,6 +58,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/saisuryavinay/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saisuryavinay/leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saisuryavinay/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -194,6 +195,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/saisuryavinay/leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saisuryavinay/leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saisuryavinay/leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/saisuryavinay/leetcode-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2063-vowels-of-all-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
