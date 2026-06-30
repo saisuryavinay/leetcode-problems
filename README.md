@@ -56,6 +56,7 @@
 | [1732-find-the-highest-altitude](https://github.com/saisuryavinay/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/saisuryavinay/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/saisuryavinay/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saisuryavinay/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saisuryavinay/leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -246,6 +247,7 @@
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/saisuryavinay/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saisuryavinay/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2974-minimum-number-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/2974-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
@@ -368,6 +370,7 @@
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/saisuryavinay/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saisuryavinay/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3689-maximum-total-subarray-value-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
