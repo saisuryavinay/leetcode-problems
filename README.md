@@ -480,6 +480,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saisuryavinay/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/saisuryavinay/leetcode-problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
@@ -487,4 +488,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saisuryavinay/leetcode-problems/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/saisuryavinay/leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
