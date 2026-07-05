@@ -334,6 +334,7 @@
 | [0287-find-the-duplicate-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/saisuryavinay/leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/saisuryavinay/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
@@ -501,4 +502,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/saisuryavinay/leetcode-problems/tree/master/0155-min-stack) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/saisuryavinay/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
