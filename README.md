@@ -47,6 +47,7 @@
 | [0739-daily-temperatures](https://github.com/saisuryavinay/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
+| [1288-remove-covered-intervals](https://github.com/saisuryavinay/leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/saisuryavinay/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -258,6 +259,7 @@
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
+| [1288-remove-covered-intervals](https://github.com/saisuryavinay/leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/saisuryavinay/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saisuryavinay/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
