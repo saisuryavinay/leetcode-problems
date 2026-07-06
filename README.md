@@ -51,6 +51,7 @@
 | [1293-three-consecutive-odds](https://github.com/saisuryavinay/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saisuryavinay/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/saisuryavinay/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -176,6 +177,7 @@
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1768-merge-strings-alternately](https://github.com/saisuryavinay/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -261,6 +263,7 @@
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/saisuryavinay/leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1833-maximum-ice-cream-bars](https://github.com/saisuryavinay/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saisuryavinay/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2974-minimum-number-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/2974-minimum-number-game) |
@@ -339,6 +342,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/saisuryavinay/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
@@ -373,6 +377,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1603-running-sum-of-1d-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/saisuryavinay/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/saisuryavinay/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
