@@ -44,6 +44,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/saisuryavinay/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/saisuryavinay/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0682-baseball-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saisuryavinay/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -501,6 +503,7 @@
 | [0042-trapping-rain-water](https://github.com/saisuryavinay/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/saisuryavinay/leetcode-problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/saisuryavinay/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
