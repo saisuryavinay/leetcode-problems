@@ -35,6 +35,7 @@
 | [0189-rotate-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/saisuryavinay/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/saisuryavinay/leetcode-problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -134,6 +135,7 @@
 | [0202-happy-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/saisuryavinay/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saisuryavinay/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -442,6 +444,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saisuryavinay/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saisuryavinay/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
