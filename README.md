@@ -48,6 +48,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/saisuryavinay/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/saisuryavinay/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/saisuryavinay/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/saisuryavinay/leetcode-problems/tree/master/1288-remove-covered-intervals) |
@@ -184,6 +185,7 @@
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/saisuryavinay/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1768-merge-strings-alternately](https://github.com/saisuryavinay/leetcode-problems/tree/master/1768-merge-strings-alternately) |
@@ -268,6 +270,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/saisuryavinay/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/saisuryavinay/leetcode-problems/tree/master/1288-remove-covered-intervals) |
@@ -401,6 +404,7 @@
 | [0011-container-with-most-water](https://github.com/saisuryavinay/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/saisuryavinay/leetcode-problems/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/saisuryavinay/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/saisuryavinay/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saisuryavinay/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
