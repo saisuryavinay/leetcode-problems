@@ -121,6 +121,7 @@
 | [3371-harshad-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saisuryavinay/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -396,6 +397,7 @@
 | [0204-count-primes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
