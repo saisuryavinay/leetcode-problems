@@ -223,6 +223,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/saisuryavinay/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0742-to-lower-case](https://github.com/saisuryavinay/leetcode-problems/tree/master/0742-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/saisuryavinay/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/saisuryavinay/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saisuryavinay/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -536,6 +537,7 @@
 | [0234-palindrome-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/saisuryavinay/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/saisuryavinay/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
