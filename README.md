@@ -72,6 +72,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saisuryavinay/leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1980-find-unique-binary-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saisuryavinay/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -115,6 +116,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/saisuryavinay/leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saisuryavinay/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -404,6 +406,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
