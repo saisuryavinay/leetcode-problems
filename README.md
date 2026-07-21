@@ -52,6 +52,7 @@
 | [0704-binary-search](https://github.com/saisuryavinay/leetcode-problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/saisuryavinay/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/saisuryavinay/leetcode-problems/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/saisuryavinay/leetcode-problems/tree/master/1260-shift-2d-grid) |
@@ -291,6 +292,7 @@
 | [0455-assign-cookies](https://github.com/saisuryavinay/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/saisuryavinay/leetcode-problems/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/saisuryavinay/leetcode-problems/tree/master/1288-remove-covered-intervals) |
@@ -397,6 +399,7 @@
 | [0169-majority-element](https://github.com/saisuryavinay/leetcode-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Database
@@ -457,10 +460,12 @@
 | [0164-maximum-gap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -474,6 +479,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/saisuryavinay/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -499,6 +505,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/saisuryavinay/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
@@ -519,6 +526,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saisuryavinay/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
