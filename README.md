@@ -93,6 +93,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/saisuryavinay/leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saisuryavinay/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
@@ -129,6 +130,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/saisuryavinay/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/3371-harshad-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saisuryavinay/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -319,6 +321,7 @@
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/saisuryavinay/leetcode-problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
 | ------- |
