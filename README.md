@@ -52,6 +52,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/saisuryavinay/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/saisuryavinay/leetcode-problems/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/saisuryavinay/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/saisuryavinay/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
@@ -164,6 +165,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/saisuryavinay/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
+| [0706-design-hashmap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0706-design-hashmap) |
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/saisuryavinay/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -550,6 +552,7 @@
 | [0234-palindrome-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/saisuryavinay/leetcode-problems/tree/master/1669-merge-in-between-linked-lists) |
@@ -578,6 +581,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/saisuryavinay/leetcode-problems/tree/master/0155-min-stack) |
 | [0535-encode-and-decode-tinyurl](https://github.com/saisuryavinay/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0706-design-hashmap) |
 ## Interactive
 |  |
 | ------- |
@@ -586,4 +590,5 @@
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/saisuryavinay/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0706-design-hashmap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
