@@ -58,6 +58,7 @@
 | [0705-design-hashset](https://github.com/saisuryavinay/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/saisuryavinay/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/saisuryavinay/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -125,6 +126,7 @@
 | [0507-perfect-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/saisuryavinay/leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -356,6 +358,7 @@
 | [0198-house-robber](https://github.com/saisuryavinay/leetcode-problems/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/saisuryavinay/leetcode-problems/tree/master/0397-integer-replacement) |
 | [0647-palindromic-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2063-vowels-of-all-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
@@ -623,4 +626,8 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/saisuryavinay/leetcode-problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/saisuryavinay/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0706-design-hashmap) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
