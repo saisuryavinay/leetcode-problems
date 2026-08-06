@@ -12,8 +12,5 @@ class Solution:
                 break
         nums2.sort()
         nums1[:m] = sorted(nums1[:m])
-
-        # print(nums1)
-        # print(nums2)
         for i in range(m,m+n):
             nums1[i] = nums2[i-m]
