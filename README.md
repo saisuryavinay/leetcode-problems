@@ -143,6 +143,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/saisuryavinay/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-harshad-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/3371-harshad-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saisuryavinay/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -518,6 +519,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
 |  |
