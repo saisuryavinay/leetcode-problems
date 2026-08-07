@@ -7,7 +7,6 @@ class Solution:
             width = end - start
             ans = min(height[end],height[start])
             area  = ans*width
-
             max_area = max(max_area,area)
 
             if height[start] < height[end]:
