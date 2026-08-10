@@ -246,6 +246,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saisuryavinay/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/saisuryavinay/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/saisuryavinay/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/saisuryavinay/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/saisuryavinay/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/saisuryavinay/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
@@ -617,6 +618,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saisuryavinay/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saisuryavinay/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/saisuryavinay/leetcode-problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0234-palindrome-linked-list) |
@@ -658,4 +660,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saisuryavinay/leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
