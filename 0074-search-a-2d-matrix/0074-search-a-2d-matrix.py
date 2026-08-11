@@ -1,37 +1,18 @@
 class Solution:
     def searchMatrix(self, mat: List[List[int]], target: int) -> bool:
-        # printing row 
+        m = len(mat)
+        n = len(mat[0])
 
-        # for row in range(len(mat)):
-        #     for col in range(len(mat[0])):
-        #         print(mat[row][col])
-        #     print('\n')
+        low = 0
+        high = (m * n) - 1
 
-        # printing col
-
-        #  for row in range(len(mat[0])):
-        #     for col in range(len(mat)):
-        #         print(mat[col][row], end = ' ')
-        #     print('\n')
-
-        for row in mat:
-            low = 0
-            high = len(row) - 1
-
-            # binary search
-
-            while low <= high:
-
-                mid = (low+high)//2
-
-                if row[mid] == target:
-                    return True
-
-                elif row[mid] < target:
-                    low = mid + 1
-                
-                else:
-                    high  = mid - 1
-
-
+        while low <= high:
+            mid = low + (high - low) // 2
+            midval = mat[mid // n][mid % n]
+            if midval == target:
+                return True
+            elif midval > target:
+                high = mid - 1
+            else:
+                low = mid + 1
         return False
