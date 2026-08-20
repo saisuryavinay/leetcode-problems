@@ -104,6 +104,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/saisuryavinay/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/saisuryavinay/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/saisuryavinay/leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -421,6 +422,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/saisuryavinay/leetcode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
