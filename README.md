@@ -118,6 +118,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/saisuryavinay/leetcode-problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/saisuryavinay/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/saisuryavinay/leetcode-problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -489,6 +491,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/saisuryavinay/leetcode-problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -545,6 +548,7 @@
 | [1291-sequential-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/saisuryavinay/leetcode-problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Union-Find
 |  |
 | ------- |
