@@ -119,6 +119,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/saisuryavinay/leetcode-problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Math
 |  |
@@ -167,6 +168,7 @@
 | [3830-find-closest-person](https://github.com/saisuryavinay/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/saisuryavinay/leetcode-problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
