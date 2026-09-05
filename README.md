@@ -68,6 +68,7 @@
 | [0877-stone-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/saisuryavinay/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/saisuryavinay/leetcode-problems/tree/master/1260-shift-2d-grid) |
@@ -200,6 +201,7 @@
 | [0645-set-mismatch](https://github.com/saisuryavinay/leetcode-problems/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/saisuryavinay/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0706-design-hashmap) |
+| [0930-binary-subarrays-with-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/saisuryavinay/leetcode-problems/tree/master/0981-time-based-key-value-store) |
 | [1122-relative-sort-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/saisuryavinay/leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
@@ -507,6 +509,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/saisuryavinay/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/saisuryavinay/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1603-running-sum-of-1d-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/saisuryavinay/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
@@ -578,6 +581,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0658-find-k-closest-elements) |
+| [0930-binary-subarrays-with-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saisuryavinay/leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saisuryavinay/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
