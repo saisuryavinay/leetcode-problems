@@ -122,6 +122,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/saisuryavinay/leetcode-problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Math
 |  |
@@ -517,6 +518,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
