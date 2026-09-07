@@ -65,6 +65,7 @@
 | [0706-design-hashmap](https://github.com/saisuryavinay/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/saisuryavinay/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/saisuryavinay/leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/saisuryavinay/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/saisuryavinay/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/0912-sort-an-array) |
@@ -467,6 +468,7 @@
 | [0633-sum-of-square-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/saisuryavinay/leetcode-problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/saisuryavinay/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/saisuryavinay/leetcode-problems/tree/master/0981-time-based-key-value-store) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
