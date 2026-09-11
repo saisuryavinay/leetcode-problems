@@ -112,6 +112,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/saisuryavinay/leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saisuryavinay/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -218,6 +219,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/saisuryavinay/leetcode-problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/saisuryavinay/leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -418,6 +420,7 @@
 | [0326-power-of-three](https://github.com/saisuryavinay/leetcode-problems/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -568,6 +571,7 @@
 | [0204-count-primes](https://github.com/saisuryavinay/leetcode-problems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/saisuryavinay/leetcode-problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Union-Find
