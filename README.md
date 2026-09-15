@@ -265,6 +265,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saisuryavinay/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -315,6 +316,7 @@
 | [2063-vowels-of-all-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saisuryavinay/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3614-process-string-with-special-operations-ii) |
@@ -413,6 +415,7 @@
 | [1013-fibonacci-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2063-vowels-of-all-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
@@ -544,6 +547,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/saisuryavinay/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saisuryavinay/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3689-maximum-total-subarray-value-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
