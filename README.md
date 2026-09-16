@@ -177,6 +177,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3945-digit-frequency-score](https://github.com/saisuryavinay/leetcode-problems/tree/master/3945-digit-frequency-score) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/saisuryavinay/leetcode-problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
@@ -227,6 +228,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/saisuryavinay/leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saisuryavinay/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/saisuryavinay/leetcode-problems/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
