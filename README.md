@@ -118,6 +118,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saisuryavinay/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saisuryavinay/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -169,6 +170,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saisuryavinay/leetcode-problems/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saisuryavinay/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saisuryavinay/leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
