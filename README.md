@@ -149,6 +149,7 @@
 | [0326-power-of-three](https://github.com/saisuryavinay/leetcode-problems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/saisuryavinay/leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/saisuryavinay/leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/saisuryavinay/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saisuryavinay/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -301,6 +302,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/saisuryavinay/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/saisuryavinay/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/saisuryavinay/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/saisuryavinay/leetcode-problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/saisuryavinay/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -456,6 +458,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/saisuryavinay/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/saisuryavinay/leetcode-problems/tree/master/0735-asteroid-collision) |
