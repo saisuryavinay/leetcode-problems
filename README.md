@@ -756,6 +756,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/saisuryavinay/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saisuryavinay/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/saisuryavinay/leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
