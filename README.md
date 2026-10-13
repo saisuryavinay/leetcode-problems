@@ -122,6 +122,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saisuryavinay/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/saisuryavinay/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -398,6 +399,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/saisuryavinay/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/saisuryavinay/leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saisuryavinay/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -574,6 +576,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saisuryavinay/leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3689-maximum-total-subarray-value-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/saisuryavinay/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
