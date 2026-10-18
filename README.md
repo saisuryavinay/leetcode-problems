@@ -133,6 +133,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/saisuryavinay/leetcode-problems/tree/master/3925-concatenate-array-with-reverse) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/saisuryavinay/leetcode-problems/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [3760-maximum-substrings-with-distinct-start](https://github.com/saisuryavinay/leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saisuryavinay/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/saisuryavinay/leetcode-problems/tree/master/3945-digit-frequency-score) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -560,6 +562,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/saisuryavinay/leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/saisuryavinay/leetcode-problems/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Greedy
 |  |
 | ------- |
