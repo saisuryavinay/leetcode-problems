@@ -83,6 +83,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saisuryavinay/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -281,6 +282,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/saisuryavinay/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1768-merge-strings-alternately](https://github.com/saisuryavinay/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saisuryavinay/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -398,6 +400,7 @@
 | [1288-remove-covered-intervals](https://github.com/saisuryavinay/leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1833-maximum-ice-cream-bars](https://github.com/saisuryavinay/leetcode-problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -513,6 +516,7 @@
 | [0704-binary-search](https://github.com/saisuryavinay/leetcode-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saisuryavinay/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/saisuryavinay/leetcode-problems/tree/master/0981-time-based-key-value-store) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/saisuryavinay/leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
