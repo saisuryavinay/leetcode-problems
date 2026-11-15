@@ -88,6 +88,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saisuryavinay/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/saisuryavinay/leetcode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -167,6 +168,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saisuryavinay/leetcode-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/saisuryavinay/leetcode-problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saisuryavinay/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
@@ -444,6 +446,7 @@
 | [0647-palindromic-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/saisuryavinay/leetcode-problems/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/saisuryavinay/leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saisuryavinay/leetcode-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2063-vowels-of-all-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2063-vowels-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saisuryavinay/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -564,6 +567,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/saisuryavinay/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saisuryavinay/leetcode-problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/saisuryavinay/leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/saisuryavinay/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/saisuryavinay/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/saisuryavinay/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
